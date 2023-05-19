@@ -16,7 +16,7 @@ namespace cSharpLearn
 
             var learn = new Learn();
             //learn.ActionM();
-
+             
             //var test = new Test<int>(23);
             //test.Write();
 
